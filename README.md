@@ -3,7 +3,13 @@
 > Rough shapes to do rapid system design in front-end, full-stack, back-end, distributed, and product settings.
 
 <details open><summary>Preview</summary>
-  <p><img src="https://user-images.githubusercontent.com/4022631/126106256-a60fc6c8-1924-4fe2-9a02-78c38254f060.png" alt="System design template preview (emoji, aretecode)"></p>
+
+![system-design-template-emoji](https://user-images.githubusercontent.com/4022631/126106256-a60fc6c8-1924-4fe2-9a02-78c38254f060.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/4022631/126112944-a99bba6f-2117-43d0-a3c1-433d8af44f53.png" alt="system-design-template-aretecode--user-requirement-analysis" />
+</p>
+
 </details>
 
 <details><summary>Goals</summary>
